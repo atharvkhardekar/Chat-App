@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("\bg-ejNHzos2.png");
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://raw.githubusercontent.com/atharvkhardekar/Chat-App/refs/heads/main/frontend/public/bg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
